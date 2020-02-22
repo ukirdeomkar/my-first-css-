@@ -1,0 +1,77 @@
+*
+{
+	margin:0;
+	padding: 0;
+}
+/*navigation*/
+
+#nav-bar
+{
+	position: sticky;
+	top: 0;
+	z-index: 10;
+}
+.navbar-brand img
+{
+	height: 40px;
+	padding-left:30px;
+
+
+}
+.navbar-nav
+{
+	padding: 0 10px;
+}
+.navbar-nav li a
+{
+	float:right;
+	text-align: left;
+
+}
+#nav-bar ul li a:hover
+{
+	color: rgb(0, 0, 0)!important;
+}
+.navbar
+{
+	background: rgb(78, 51, 51);
+
+}
+.navbar-toggler
+{
+	border: none!important;
+}
+.nav-link
+{
+	color: rgb(99, 25, 65)!important
+	font weight:600;
+	font size: 16px;
+}
+/*---slider---*/
+#slider
+{
+	width: 100%;
+}
+
+.carousel-caption h5
+{
+	color: #fff;
+	
+}
+/*--about--*/
+#about
+{
+	padding-top: 50 px;
+	padding-bottom: 50 px;
+	color: #555555;
+}
+#about btn
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+
+}
+.about-content
+{
+	padding-top: 20px;
+}
